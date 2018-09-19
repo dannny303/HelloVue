@@ -1,4 +1,4 @@
-# fishinVue
+# HelloVue
 
 ## Project setup
 ```
